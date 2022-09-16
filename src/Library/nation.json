@@ -1,0 +1,1848 @@
+{
+    "england": {
+        "uniqueTournament": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "primaryColorHex": "#3c1c5a",
+            "secondaryColorHex": "#f80158",
+            "logo": {
+                "md5": "e214ba84c576323e3e70cc6098733f0c",
+                "id": 294210
+            },
+            "category": {
+                "name": "England",
+                "slug": "england",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "id": 1,
+                "flag": "england",
+                "alpha2": "EN"
+            },
+            "userCount": 1127099,
+            "tier": 1,
+            "titleHolder": {
+                "name": "Manchester City",
+                "slug": "manchester-city",
+                "shortName": "Man City",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 965976,
+                "nameCode": "MCI",
+                "national": false,
+                "type": 0,
+                "id": 17,
+                "teamColors": {
+                    "primary": "#66ccff",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "titleHolderTitles": 8,
+            "mostTitles": 20,
+            "mostTitlesTeams": [
+                {
+                    "name": "Manchester United",
+                    "slug": "manchester-united",
+                    "shortName": "Man Utd",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 1176017,
+                    "nameCode": "MUN",
+                    "national": false,
+                    "type": 0,
+                    "id": 35,
+                    "teamColors": {
+                        "primary": "#ff0000",
+                        "secondary": "#373737",
+                        "text": "#373737"
+                    }
+                }
+            ],
+            "linkedUniqueTournaments": [],
+            "hasStandingsGroups": false,
+            "hasRounds": true,
+            "hasPlayoffSeries": false,
+            "upperDivisions": [],
+            "lowerDivisions": [
+                {
+                    "name": "Championship",
+                    "slug": "championship",
+                    "primaryColorHex": "#20429a",
+                    "secondaryColorHex": "#ac944a",
+                    "logo": {
+                        "md5": "29a945d83732f069f92fb0986738b57f",
+                        "id": 294000
+                    },
+                    "category": {
+                        "name": "England",
+                        "slug": "england",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1,
+                        "flag": "england",
+                        "alpha2": "EN"
+                    },
+                    "tier": 2,
+                    "hasRounds": true,
+                    "hasPlayoffSeries": false,
+                    "hasPositionGraph": true,
+                    "id": 18,
+                    "startDateTimestamp": 1659121200,
+                    "endDateTimestamp": 1688169540,
+                    "displayInverseHomeAwayTeams": false
+                }
+            ],
+            "hasPositionGraph": true,
+            "id": 17,
+            "startDateTimestamp": 1659726000,
+            "endDateTimestamp": 1685232000,
+            "displayInverseHomeAwayTeams": false
+        },
+        "seasons": [
+            {
+                "name": "Premier League 22/23",
+                "year": "22/23",
+                "id": 41886
+            },
+            {
+                "name": "Premier League 21/22",
+                "year": "21/22",
+                "id": 37036
+            },
+            {
+                "name": "Premier League 20/21",
+                "year": "20/21",
+                "id": 29415
+            },
+            {
+                "name": "Premier League 19/20",
+                "year": "19/20",
+                "id": 23776
+            },
+            {
+                "name": "Premier League 18/19",
+                "year": "18/19",
+                "id": 17359
+            },
+            {
+                "name": "Premier League 17/18",
+                "year": "17/18",
+                "id": 13380
+            },
+            {
+                "name": "Premier League 16/17",
+                "year": "16/17",
+                "id": 11733
+            },
+            {
+                "name": "Premier League 15/16",
+                "year": "15/16",
+                "id": 10356
+            },
+            {
+                "name": "Premier League 14/15",
+                "year": "14/15",
+                "id": 8186
+            },
+            {
+                "name": "Premier League 13/14",
+                "year": "13/14",
+                "id": 6311
+            },
+            {
+                "name": "Premier League 12/13",
+                "year": "12/13",
+                "id": 4710
+            },
+            {
+                "name": "Premier League 11/12",
+                "year": "11/12",
+                "id": 3391
+            },
+            {
+                "name": "Premier League 10/11",
+                "year": "10/11",
+                "id": 2746
+            },
+            {
+                "name": "Premier League 09/10",
+                "year": "09/10",
+                "id": 2139
+            },
+            {
+                "name": "Premier League 08/09",
+                "year": "08/09",
+                "id": 1544
+            },
+            {
+                "name": "Premier League 07/08",
+                "year": "07/08",
+                "id": 581
+            },
+            {
+                "name": "Premier League 06/07",
+                "year": "06/07",
+                "id": 4
+            },
+            {
+                "name": "Premier League 05/06",
+                "year": "05/06",
+                "id": 3
+            },
+            {
+                "name": "Premier League 04/05",
+                "year": "04/05",
+                "id": 2
+            },
+            {
+                "name": "Premier League 03/04",
+                "year": "03/04",
+                "id": 1
+            },
+            {
+                "name": "Premier League 02/03",
+                "year": "02/03",
+                "id": 46
+            },
+            {
+                "name": "Premier League 01/02",
+                "year": "01/02",
+                "id": 47
+            },
+            {
+                "name": "Premier League 00/01",
+                "year": "00/01",
+                "id": 48
+            },
+            {
+                "name": "Premier League 99/00",
+                "year": "99/00",
+                "id": 49
+            },
+            {
+                "name": "Premier League 98/99",
+                "year": "98/99",
+                "id": 50
+            },
+            {
+                "name": "Premier League 97/98",
+                "year": "97/98",
+                "id": 51
+            },
+            {
+                "name": "Premier League 96/97",
+                "year": "96/97",
+                "id": 25682
+            },
+            {
+                "name": "Premier League 95/96",
+                "year": "95/96",
+                "id": 25681
+            },
+            {
+                "name": "Premier League 94/95",
+                "year": "94/95",
+                "id": 29167
+            },
+            {
+                "name": "Premier League 93/94",
+                "year": "93/94",
+                "id": 25680
+            }
+        ],
+        "seo": {
+            "otherNames": [" English Premier League", " EPL"],
+            "grade": "professional",
+            "firstSeasonWinnerName": "Manchester United",
+            "largestStadium": {
+                "teamName": "Manchester United",
+                "capacity": 74879
+            },
+            "lastSeasonAttendance": {
+                "highest": 81332,
+                "highestHomeTeam": "Tottenham Hotspur",
+                "highestAwayTeam": "Arsenal",
+                "total": 14508981,
+                "average": 38182
+            },
+            "tvPartners": [
+                {
+                    "name": "Sky Sports",
+                    "url": "https://www.skysports.com/"
+                },
+                {
+                    "name": "BT Sport",
+                    "url": "https://www.bt.com/sport"
+                },
+                {
+                    "name": "Amazon Prime Video",
+                    "url": "https://www.primevideo.com/"
+                },
+                {
+                    "name": "BBC Sport",
+                    "url": "https://www.bbc.com/sport"
+                }
+            ],
+            "officialOrganisation": {
+                "name": "Premier League",
+                "url": "https://www.premierleague.com/"
+            },
+            "lastSeasonTopScorers": [
+                { "name": "Heung-min Son", "goals": 23 },
+                { "name": "Mohamed Salah", "goals": 23 }
+            ],
+            "teamsCount": 20,
+            "tablesCount": 3,
+            "relegatingTeamsCount": 3,
+            "promotions": [
+                {
+                    "competitionName": "UEFA Champions League",
+                    "promotionCount": 4
+                },
+                {
+                    "competitionName": "Europa League",
+                    "promotionCount": 2
+                }
+            ],
+            "gamesCount": 415,
+            "frequency": 1,
+            "mostPopularTeams": ["Manchester United", "Liverpool", "Chelsea"],
+            "preliminaryRound": {},
+            "mainCompetition": {},
+            "roundsCount": 38,
+            "promotedTeams": [
+                "Norwich City",
+                " Sheffield United",
+                " Aston Villa"
+            ],
+            "uniqueTournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "England",
+                    "slug": "england",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1,
+                    "flag": "england",
+                    "alpha2": "EN"
+                },
+                "userCount": 1127099,
+                "id": 17,
+                "displayInverseHomeAwayTeams": false
+            },
+            "competitionType": "league",
+            "gender": "M",
+            "firstSeasonYear": "1992",
+            "hasPlayoff": false,
+            "mostTitlesNames": ["Manchester United"]
+        },
+        "info": {
+            "goals": 175,
+            "homeTeamWins": 30,
+            "awayTeamWins": 12,
+            "draws": 18,
+            "yellowCards": 231,
+            "redCards": 3,
+            "numberOfRounds": 38,
+            "newcomersUpperDivision": [],
+            "newcomersLowerDivision": [
+                {
+                    "name": "Nottingham Forest",
+                    "slug": "nottingham-forest",
+                    "shortName": "Forest",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 42103,
+                    "nameCode": "NFO",
+                    "national": false,
+                    "type": 0,
+                    "id": 14,
+                    "teamColors": {
+                        "primary": "#cc0000",
+                        "secondary": "#cc0000",
+                        "text": "#cc0000"
+                    }
+                },
+                {
+                    "name": "Fulham",
+                    "slug": "fulham",
+                    "shortName": "Fulham",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 77020,
+                    "nameCode": "FUL",
+                    "national": false,
+                    "type": 0,
+                    "id": 43,
+                    "teamColors": {
+                        "primary": "#ffffff",
+                        "secondary": "#000000",
+                        "text": "#000000"
+                    }
+                },
+                {
+                    "name": "AFC Bournemouth",
+                    "slug": "afc-bournemouth",
+                    "shortName": "Bournemouth",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 43615,
+                    "nameCode": "BOU",
+                    "disabled": false,
+                    "national": false,
+                    "type": 0,
+                    "id": 60,
+                    "teamColors": {
+                        "primary": "#000000",
+                        "secondary": "#cc0000",
+                        "text": "#cc0000"
+                    }
+                }
+            ],
+            "newcomersOther": [],
+            "numberOfCompetitors": 20,
+            "id": 21480,
+            "hostCountries": []
+        },
+        "params": {
+            "sport": "football",
+            "category": "england",
+            "tournament": "premier-league",
+            "id": "17"
+        }
+    },
+    "spain": {
+        "uniqueTournament": {
+            "name": "LaLiga",
+            "slug": "laliga",
+            "primaryColorHex": "#2f4a89",
+            "secondaryColorHex": "#f4a32e",
+            "logo": {
+                "md5": "e3038d77e06f7aec06f5e3f9bb9f74c4",
+                "id": 302452
+            },
+            "category": {
+                "name": "Spain",
+                "slug": "spain",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "id": 32,
+                "flag": "spain",
+                "alpha2": "ES"
+            },
+            "userCount": 761521,
+            "tier": 1,
+            "titleHolder": {
+                "name": "Real Madrid",
+                "slug": "real-madrid",
+                "shortName": "Real Madrid",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 1330514,
+                "nameCode": "RMA",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 2829,
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#004996",
+                    "text": "#004996"
+                }
+            },
+            "titleHolderTitles": 35,
+            "mostTitles": 35,
+            "mostTitlesTeams": [
+                {
+                    "name": "Real Madrid",
+                    "slug": "real-madrid",
+                    "shortName": "Real Madrid",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 1330514,
+                    "nameCode": "RMA",
+                    "disabled": false,
+                    "national": false,
+                    "type": 0,
+                    "id": 2829,
+                    "teamColors": {
+                        "primary": "#ffffff",
+                        "secondary": "#004996",
+                        "text": "#004996"
+                    }
+                }
+            ],
+            "linkedUniqueTournaments": [],
+            "hasStandingsGroups": false,
+            "hasRounds": true,
+            "hasPlayoffSeries": false,
+            "upperDivisions": [],
+            "lowerDivisions": [
+                {
+                    "name": "LaLiga 2",
+                    "slug": "laliga-2",
+                    "primaryColorHex": "#2f4a89",
+                    "secondaryColorHex": "#e89823",
+                    "logo": {
+                        "md5": "e3038d77e06f7aec06f5e3f9bb9f74c4",
+                        "id": 302452
+                    },
+                    "category": {
+                        "name": "Spain",
+                        "slug": "spain",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 32,
+                        "flag": "spain",
+                        "alpha2": "ES"
+                    },
+                    "tier": 2,
+                    "hasRounds": true,
+                    "hasPlayoffSeries": false,
+                    "hasPositionGraph": true,
+                    "id": 54,
+                    "startDateTimestamp": 1660500000,
+                    "endDateTimestamp": 1687219140,
+                    "displayInverseHomeAwayTeams": false
+                }
+            ],
+            "hasPositionGraph": true,
+            "id": 8,
+            "startDateTimestamp": 1660330800,
+            "endDateTimestamp": 1685836800,
+            "displayInverseHomeAwayTeams": false
+        },
+        "seasons": [
+            { "name": "LaLiga 22/23", "year": "22/23", "id": 42409 },
+            { "name": "LaLiga 21/22", "year": "21/22", "id": 37223 },
+            { "name": "LaLiga 20/21", "year": "20/21", "id": 32501 },
+            { "name": "LaLiga 19/20", "year": "19/20", "id": 24127 },
+            { "name": "LaLiga 18/19", "year": "18/19", "id": 18020 },
+            { "name": "LaLiga 17/18", "year": "17/18", "id": 13662 },
+            { "name": "LaLiga 16/17", "year": "16/17", "id": 11906 },
+            {
+                "name": "Primera Division 15/16",
+                "year": "15/16",
+                "id": 10495
+            },
+            {
+                "name": "Primera Division 14/15",
+                "year": "14/15",
+                "id": 8578
+            },
+            {
+                "name": "Primera Division 13/14",
+                "year": "13/14",
+                "id": 6559
+            },
+            {
+                "name": "Primera Division 12/13",
+                "year": "12/13",
+                "id": 4959
+            },
+            {
+                "name": "Primera Division 11/12",
+                "year": "11/12",
+                "id": 3502
+            },
+            { "name": "Liga BBVA 10/11", "year": "10/11", "id": 2896 },
+            { "name": "Liga BBVA 09/10", "year": "09/10", "id": 2252 },
+            { "name": "Liga BBVA 08/09", "year": "08/09", "id": 1587 },
+            {
+                "name": "Primera Division 07/08",
+                "year": "07/08",
+                "id": 669
+            },
+            {
+                "name": "Primera Division 06/07",
+                "year": "06/07",
+                "id": 102
+            },
+            {
+                "name": "Primera Division 05/06",
+                "year": "05/06",
+                "id": 101
+            },
+            {
+                "name": "Primera Division 04/05",
+                "year": "04/05",
+                "id": 100
+            },
+            {
+                "name": "Primera Division 03/04",
+                "year": "03/04",
+                "id": 99
+            },
+            {
+                "name": "Primera Division 02/03",
+                "year": "02/03",
+                "id": 70
+            },
+            {
+                "name": "Primera Division 01/02",
+                "year": "01/02",
+                "id": 71
+            },
+            {
+                "name": "Primera Division 00/01",
+                "year": "00/01",
+                "id": 72
+            },
+            {
+                "name": "Primera Division 99/00",
+                "year": "99/00",
+                "id": 73
+            },
+            {
+                "name": "Primera Division 98/99",
+                "year": "98/99",
+                "id": 74
+            },
+            {
+                "name": "Primera Division 97/98",
+                "year": "97/98",
+                "id": 75
+            },
+            {
+                "name": "Primera Division 96/97",
+                "year": "96/97",
+                "id": 25689
+            },
+            {
+                "name": "Primera Division 95/96",
+                "year": "95/96",
+                "id": 25690
+            },
+            {
+                "name": "Primera Division 94/95",
+                "year": "94/95",
+                "id": 25688
+            },
+            {
+                "name": "Primera Division 93/94",
+                "year": "93/94",
+                "id": 25687
+            }
+        ],
+        "seo": {
+            "otherNames": [
+                "Campeonato Nacional de Liga de Primera División",
+                " LaLiga Santander"
+            ],
+            "grade": "professional",
+            "firstSeasonWinnerName": "Athletic Bilbao",
+            "largestStadium": {
+                "teamName": "Camp Nou",
+                "capacity": 99354
+            },
+            "lastSeasonAttendance": {
+                "highest": 93265,
+                "highestHomeTeam": "Barcelona",
+                "highestAwayTeam": "Real Madrid",
+                "total": 10234693,
+                "average": 26933
+            },
+            "officialOrganisation": {
+                "name": "Liga de Fútbol Profesional",
+                "url": "https://www.laliga.com/"
+            },
+            "lastSeasonTopScorers": [{ "name": "Lionel Messi", "goals": 30 }],
+            "teamsCount": 20,
+            "tablesCount": 3,
+            "relegatingTeamsCount": 3,
+            "promotions": [
+                {
+                    "competitionName": "UEFA Champions League",
+                    "promotionCount": 5
+                },
+                {
+                    "competitionName": "Europa League",
+                    "promotionCount": 2
+                }
+            ],
+            "gamesCount": 387,
+            "frequency": 1,
+            "mostPopularTeams": ["Barcelona", "Real Madrid", "Atlético Madrid"],
+            "preliminaryRound": {},
+            "mainCompetition": {},
+            "roundsCount": 38,
+            "promotedTeams": ["Osasuna", " Mallorca", " Granada"],
+            "uniqueTournament": {
+                "name": "LaLiga",
+                "slug": "laliga",
+                "category": {
+                    "name": "Spain",
+                    "slug": "spain",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 32,
+                    "flag": "spain",
+                    "alpha2": "ES"
+                },
+                "userCount": 761521,
+                "id": 8,
+                "displayInverseHomeAwayTeams": false
+            },
+            "competitionType": "league",
+            "gender": "M",
+            "firstSeasonYear": "1929",
+            "hasPlayoff": false,
+            "mostTitlesNames": ["Real Madrid"]
+        },
+        "info": {
+            "goals": 98,
+            "homeTeamWins": 15,
+            "awayTeamWins": 17,
+            "draws": 8,
+            "yellowCards": 225,
+            "redCards": 15,
+            "numberOfRounds": 38,
+            "newcomersUpperDivision": [],
+            "newcomersLowerDivision": [
+                {
+                    "name": "Real Valladolid",
+                    "slug": "real-valladolid",
+                    "shortName": "Valladolid",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 29801,
+                    "nameCode": "VLL",
+                    "national": false,
+                    "type": 0,
+                    "id": 2831,
+                    "teamColors": {
+                        "primary": "#ffffff",
+                        "secondary": "#663399",
+                        "text": "#663399"
+                    }
+                },
+                {
+                    "name": "UD Almería",
+                    "slug": "ud-almeria",
+                    "shortName": "Almería",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 28649,
+                    "nameCode": "ALM",
+                    "disabled": false,
+                    "national": false,
+                    "type": 0,
+                    "id": 2858,
+                    "teamColors": {
+                        "primary": "#ff0000",
+                        "secondary": "#ffffff",
+                        "text": "#ffffff"
+                    }
+                },
+                {
+                    "name": "Girona FC",
+                    "slug": "girona-fc",
+                    "shortName": "Girona",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 22245,
+                    "nameCode": "GIR",
+                    "disabled": false,
+                    "national": false,
+                    "type": 0,
+                    "id": 24264,
+                    "teamColors": {
+                        "primary": "#ffffff",
+                        "secondary": "#ff0000",
+                        "text": "#ff0000"
+                    }
+                }
+            ],
+            "newcomersOther": [],
+            "numberOfCompetitors": 20,
+            "id": 22348,
+            "hostCountries": ["Spain"]
+        },
+        "params": {
+            "sport": "football",
+            "category": "spain",
+            "tournament": "laliga",
+            "id": "8"
+        }
+    },
+    "germany": {
+        "uniqueTournament": {
+            "name": "Bundesliga",
+            "slug": "bundesliga",
+            "primaryColorHex": "#e2080e",
+            "secondaryColorHex": "#8e0902",
+            "logo": { "md5": "7023416cc6d8ad25e1fbc7076c266c56", "id": 302453 },
+            "category": {
+                "name": "Germany",
+                "slug": "germany",
+                "sport": { "name": "Football", "slug": "football", "id": 1 },
+                "id": 30,
+                "flag": "germany",
+                "alpha2": "DE"
+            },
+            "userCount": 518071,
+            "tier": 1,
+            "titleHolder": {
+                "name": "Bayern München",
+                "slug": "bayern-munchen",
+                "shortName": "Bayern M.",
+                "gender": "M",
+                "sport": { "name": "Football", "slug": "football", "id": 1 },
+                "userCount": 737173,
+                "nameCode": "BMU",
+                "national": false,
+                "type": 0,
+                "id": 2672,
+                "teamColors": {
+                    "primary": "#cf142f",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "titleHolderTitles": 32,
+            "mostTitles": 32,
+            "mostTitlesTeams": [
+                {
+                    "name": "Bayern München",
+                    "slug": "bayern-munchen",
+                    "shortName": "Bayern M.",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 737173,
+                    "nameCode": "BMU",
+                    "national": false,
+                    "type": 0,
+                    "id": 2672,
+                    "teamColors": {
+                        "primary": "#cf142f",
+                        "secondary": "#ffffff",
+                        "text": "#ffffff"
+                    }
+                }
+            ],
+            "linkedUniqueTournaments": [],
+            "hasStandingsGroups": false,
+            "hasRounds": true,
+            "hasPlayoffSeries": false,
+            "upperDivisions": [],
+            "lowerDivisions": [
+                {
+                    "name": "2. Bundesliga",
+                    "slug": "2-bundesliga",
+                    "primaryColorHex": "#919292",
+                    "secondaryColorHex": "#d20616",
+                    "logo": {
+                        "md5": "063f94a8031be7d2f34afe8e6fe131df",
+                        "id": 302454
+                    },
+                    "category": {
+                        "name": "Germany",
+                        "slug": "germany",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 30,
+                        "flag": "germany",
+                        "alpha2": "DE"
+                    },
+                    "tier": 2,
+                    "hasRounds": true,
+                    "hasPlayoffSeries": false,
+                    "hasPositionGraph": true,
+                    "id": 44,
+                    "startDateTimestamp": 1657909800,
+                    "endDateTimestamp": 1686268740,
+                    "displayInverseHomeAwayTeams": false
+                }
+            ],
+            "hasPositionGraph": true,
+            "id": 35,
+            "startDateTimestamp": 1659724200,
+            "endDateTimestamp": 1686182340,
+            "displayInverseHomeAwayTeams": false
+        },
+        "seasons": [
+            { "name": "Bundesliga 22/23", "year": "22/23", "id": 42268 },
+            { "name": "Bundesliga 21/22", "year": "21/22", "id": 37166 },
+            { "name": "Bundesliga 20/21", "year": "20/21", "id": 28210 },
+            { "name": "Bundesliga 19/20", "year": "19/20", "id": 23538 },
+            { "name": "Bundesliga 18/19", "year": "18/19", "id": 17597 },
+            { "name": "Bundesliga 17/18", "year": "17/18", "id": 13477 },
+            { "name": "Bundesliga 16/17", "year": "16/17", "id": 11818 },
+            { "name": "Bundesliga 15/16", "year": "15/16", "id": 10419 },
+            { "name": "Bundesliga 14/15", "year": "14/15", "id": 8238 },
+            { "name": "Bundesliga 13/14", "year": "13/14", "id": 6303 },
+            { "name": "Bundesliga 12/13", "year": "12/13", "id": 4792 },
+            { "name": "Bundesliga 11/12", "year": "11/12", "id": 3405 },
+            { "name": "Bundesliga 10/11", "year": "10/11", "id": 2811 },
+            { "name": "Bundesliga 09/10", "year": "09/10", "id": 2188 },
+            { "name": "Bundesliga 08/09", "year": "08/09", "id": 1557 },
+            { "name": "Bundesliga 07/08", "year": "07/08", "id": 525 },
+            { "name": "Bundesliga 06/07", "year": "06/07", "id": 94 },
+            { "name": "Bundesliga 05/06", "year": "05/06", "id": 93 },
+            { "name": "Bundesliga 04/05", "year": "04/05", "id": 92 },
+            { "name": "Bundesliga 03/04", "year": "03/04", "id": 91 },
+            { "name": "Bundesliga 02/03", "year": "02/03", "id": 90 },
+            { "name": "Bundesliga 01/02", "year": "01/02", "id": 103 },
+            { "name": "Bundesliga 00/01", "year": "00/01", "id": 104 },
+            { "name": "Bundesliga 99/00", "year": "99/00", "id": 105 },
+            { "name": "Bundesliga 98/99", "year": "98/99", "id": 106 },
+            { "name": "Bundesliga 97/98", "year": "97/98", "id": 107 },
+            { "name": "Bundesliga 92/93", "year": "92/93", "id": 13088 }
+        ],
+        "seo": {
+            "otherNames": ["Fußball-Bundesliga", " 1. Bundesliga"],
+            "grade": "professional",
+            "firstSeasonWinnerName": "1. FC Koln",
+            "largestStadium": {
+                "teamName": "Borussia Dortmund",
+                "capacity": 81365
+            },
+            "lastSeasonAttendance": {
+                "highest": 81365,
+                "highestHomeTeam": "Borussia Dortmund",
+                "highestAwayTeam": "Augsburg",
+                "total": 9112950,
+                "average": 30683
+            },
+            "officialOrganisation": {
+                "name": "Deutsche Fußball Liga",
+                "url": "https://www.dfl.de/de/"
+            },
+            "lastSeasonTopScorers": [
+                { "name": "Robert Lewandowski", "goals": 41 }
+            ],
+            "teamsCount": 18,
+            "tablesCount": 3,
+            "relegatingTeamsCount": 2,
+            "promotions": [
+                {
+                    "competitionName": "UEFA Champions League",
+                    "promotionCount": 4
+                },
+                { "competitionName": "Europa League", "promotionCount": 2 }
+            ],
+            "gamesCount": 312,
+            "frequency": 1,
+            "mostPopularTeams": [
+                "Bayern München",
+                "Borussia Dortmund",
+                "RB Leipzig"
+            ],
+            "preliminaryRound": {},
+            "mainCompetition": {},
+            "roundsCount": 34,
+            "promotedTeams": ["1. FC Koln", " SC Paderborn", " Union Berlin"],
+            "uniqueTournament": {
+                "name": "Bundesliga",
+                "slug": "bundesliga",
+                "category": {
+                    "name": "Germany",
+                    "slug": "germany",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 30,
+                    "flag": "germany",
+                    "alpha2": "DE"
+                },
+                "userCount": 518071,
+                "id": 35,
+                "displayInverseHomeAwayTeams": false
+            },
+            "competitionType": "league",
+            "gender": "M",
+            "firstSeasonYear": "1963",
+            "hasPlayoff": false,
+            "mostTitlesNames": ["Bayern München"]
+        },
+        "info": {
+            "goals": 135,
+            "homeTeamWins": 13,
+            "awayTeamWins": 19,
+            "draws": 13,
+            "yellowCards": 173,
+            "redCards": 10,
+            "newcomersUpperDivision": [],
+            "newcomersLowerDivision": [
+                {
+                    "name": "FC Schalke 04",
+                    "slug": "fc-schalke-04",
+                    "shortName": "Schalke 04",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 43326,
+                    "nameCode": "SCH",
+                    "disabled": false,
+                    "national": false,
+                    "type": 0,
+                    "id": 2530,
+                    "teamColors": {
+                        "primary": "#0541cd",
+                        "secondary": "#ffffff",
+                        "text": "#ffffff"
+                    }
+                },
+                {
+                    "name": "Werder Bremen",
+                    "slug": "werder-bremen",
+                    "shortName": "Bremen",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 30014,
+                    "nameCode": "SVW",
+                    "national": false,
+                    "type": 0,
+                    "id": 2534,
+                    "teamColors": {
+                        "primary": "#009966",
+                        "secondary": "#ffffff",
+                        "text": "#ffffff"
+                    }
+                }
+            ],
+            "newcomersOther": [],
+            "numberOfCompetitors": 18,
+            "id": 22281,
+            "hostCountries": []
+        },
+        "params": {
+            "sport": "football",
+            "category": "germany",
+            "tournament": "bundesliga",
+            "id": "35"
+        }
+    },
+    "france": {
+        "uniqueTournament": {
+            "name": "Ligue 1",
+            "slug": "ligue-1",
+            "primaryColorHex": "#091c3e",
+            "secondaryColorHex": "#a9c011",
+            "logo": {
+                "md5": "6237a659b85bddd5632251d83bd0e723",
+                "id": 629071
+            },
+            "category": {
+                "name": "France",
+                "slug": "france",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "id": 7,
+                "flag": "france",
+                "alpha2": "FR"
+            },
+            "userCount": 471920,
+            "tier": 1,
+            "titleHolder": {
+                "name": "Paris Saint-Germain",
+                "slug": "paris-saint-germain",
+                "shortName": "PSG",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 1023935,
+                "nameCode": "PSG",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 1644,
+                "teamColors": {
+                    "primary": "#000066",
+                    "secondary": "#ff1541",
+                    "text": "#ff1541"
+                }
+            },
+            "titleHolderTitles": 10,
+            "mostTitles": 10,
+            "mostTitlesTeams": [
+                {
+                    "name": "Paris Saint-Germain",
+                    "slug": "paris-saint-germain",
+                    "shortName": "PSG",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 1023935,
+                    "nameCode": "PSG",
+                    "disabled": false,
+                    "national": false,
+                    "type": 0,
+                    "id": 1644,
+                    "teamColors": {
+                        "primary": "#000066",
+                        "secondary": "#ff1541",
+                        "text": "#ff1541"
+                    }
+                },
+                {
+                    "name": "Saint-Étienne",
+                    "slug": "saint-etienne",
+                    "shortName": "Saint-Étienne",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 33909,
+                    "nameCode": "STE",
+                    "disabled": false,
+                    "national": false,
+                    "type": 0,
+                    "id": 1678,
+                    "teamColors": {
+                        "primary": "#1e824c",
+                        "secondary": "#ffffff",
+                        "text": "#ffffff"
+                    }
+                }
+            ],
+            "linkedUniqueTournaments": [],
+            "hasStandingsGroups": false,
+            "hasRounds": true,
+            "hasPlayoffSeries": false,
+            "upperDivisions": [],
+            "lowerDivisions": [
+                {
+                    "name": "Ligue 2",
+                    "slug": "ligue-2",
+                    "primaryColorHex": "#091c3e",
+                    "secondaryColorHex": "#36d3b4",
+                    "logo": {
+                        "md5": "c629e25f6113273ec23f8cb5227937b7",
+                        "id": 629077
+                    },
+                    "category": {
+                        "name": "France",
+                        "slug": "france",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 7,
+                        "flag": "france",
+                        "alpha2": "FR"
+                    },
+                    "tier": 2,
+                    "hasRounds": true,
+                    "hasPlayoffSeries": false,
+                    "hasPositionGraph": true,
+                    "id": 182,
+                    "startDateTimestamp": 1659186000,
+                    "endDateTimestamp": 1685750400,
+                    "displayInverseHomeAwayTeams": false
+                }
+            ],
+            "hasPositionGraph": true,
+            "id": 34,
+            "startDateTimestamp": 1659895200,
+            "endDateTimestamp": 1685923140,
+            "displayInverseHomeAwayTeams": false
+        },
+        "seasons": [
+            { "name": "Ligue 1 22/23", "year": "22/23", "id": 42273 },
+            { "name": "Ligue 1 21/22", "year": "21/22", "id": 37167 },
+            { "name": "Ligue 1 20/21", "year": "20/21", "id": 28222 },
+            { "name": "Ligue 1 19/20", "year": "19/20", "id": 23872 },
+            { "name": "Ligue 1 18/19", "year": "18/19", "id": 17279 },
+            { "name": "Ligue 1 17/18", "year": "17/18", "id": 13384 },
+            { "name": "Ligue 1 16/17", "year": "16/17", "id": 11648 },
+            { "name": "Ligue 1 15/16", "year": "15/16", "id": 10373 },
+            { "name": "Ligue 1 14/15", "year": "14/15", "id": 8122 },
+            { "name": "Ligue 1 13/14", "year": "13/14", "id": 6271 },
+            { "name": "Ligue 1 12/13", "year": "12/13", "id": 4616 },
+            { "name": "Ligue 1 11/12", "year": "11/12", "id": 3380 },
+            { "name": "Ligue 1 10/11", "year": "10/11", "id": 2719 },
+            { "name": "Ligue 1 09/10", "year": "09/10", "id": 2120 },
+            { "name": "Ligue 1 08/09", "year": "08/09", "id": 1542 },
+            { "name": "Ligue 1 07/08", "year": "07/08", "id": 534 },
+            { "name": "Ligue 1 06/07", "year": "06/07", "id": 56 },
+            { "name": "Ligue 1 05/06", "year": "05/06", "id": 57 },
+            { "name": "Ligue 1 04/05", "year": "04/05", "id": 58 },
+            { "name": "Ligue 1 03/04", "year": "03/04", "id": 59 },
+            { "name": "Ligue 1 02/03", "year": "02/03", "id": 60 },
+            { "name": "Division 1 01/02", "year": "01/02", "id": 61 },
+            { "name": "Division 1 00/01", "year": "00/01", "id": 62 },
+            { "name": "Division 1 99/00", "year": "99/00", "id": 63 },
+            { "name": "Division 1 98/99", "year": "98/99", "id": 64 },
+            { "name": "Division 1 97/98", "year": "97/98", "id": 65 }
+        ],
+        "seo": {
+            "otherNames": ["Ligue 1 Conforama"],
+            "grade": "professional",
+            "largestStadium": {
+                "teamName": "Marseille",
+                "capacity": 67394
+            },
+            "lastSeasonAttendance": {
+                "highest": 64696,
+                "highestHomeTeam": "Marseille",
+                "highestAwayTeam": "Paris Saint-Germain",
+                "total": 8676490,
+                "average": 22833
+            },
+            "officialOrganisation": {
+                "name": "Ligue de Football Professionnel",
+                "url": "https://www.lfp.fr/"
+            },
+            "lastSeasonTopScorers": [{ "name": "Kylian Mbappé", "goals": 27 }],
+            "teamsCount": 20,
+            "tablesCount": 3,
+            "relegatingTeamsCount": 2,
+            "promotions": [
+                {
+                    "competitionName": "UEFA Champions League",
+                    "promotionCount": 2
+                },
+                {
+                    "competitionName": "UEFA Champions League Qualification",
+                    "promotionCount": 1
+                },
+                {
+                    "competitionName": "Europa League",
+                    "promotionCount": 2
+                }
+            ],
+            "gamesCount": 384,
+            "frequency": 1,
+            "mostPopularTeams": [
+                "Paris Saint-Germain",
+                "Olympique Lyonnais",
+                "Olympique de Marseille"
+            ],
+            "preliminaryRound": {},
+            "mainCompetition": {},
+            "roundsCount": 38,
+            "promotedTeams": ["Reims", " Nimes"],
+            "uniqueTournament": {
+                "name": "Ligue 1",
+                "slug": "ligue-1",
+                "category": {
+                    "name": "France",
+                    "slug": "france",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 7,
+                    "flag": "france",
+                    "alpha2": "FR"
+                },
+                "userCount": 471920,
+                "id": 34,
+                "displayInverseHomeAwayTeams": false
+            },
+            "competitionType": "league",
+            "gender": "M",
+            "firstSeasonYear": "1930",
+            "hasPlayoff": false,
+            "mostTitlesNames": ["Paris Saint-Germain", "Saint-Étienne"]
+        },
+        "info": {
+            "goals": 194,
+            "homeTeamWins": 22,
+            "awayTeamWins": 21,
+            "draws": 16,
+            "yellowCards": 230,
+            "redCards": 29,
+            "newcomersUpperDivision": [],
+            "newcomersLowerDivision": [
+                {
+                    "name": "AJ Auxerre",
+                    "slug": "aj-auxerre",
+                    "shortName": "Auxerre",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 14302,
+                    "nameCode": "AUX",
+                    "national": false,
+                    "type": 0,
+                    "id": 1646,
+                    "teamColors": {
+                        "primary": "#ffffff",
+                        "secondary": "#0033ff",
+                        "text": "#0033ff"
+                    }
+                },
+                {
+                    "name": "AC Ajaccio",
+                    "slug": "ac-ajaccio",
+                    "shortName": "Ajaccio",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 13067,
+                    "nameCode": "ACA",
+                    "national": false,
+                    "type": 0,
+                    "id": 1660,
+                    "teamColors": {
+                        "primary": "#ffffff",
+                        "secondary": "#ff0000",
+                        "text": "#ff0000"
+                    }
+                },
+                {
+                    "name": "Toulouse",
+                    "slug": "toulouse",
+                    "shortName": "Toulouse",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 28444,
+                    "nameCode": "TFC",
+                    "national": false,
+                    "type": 0,
+                    "id": 1681,
+                    "teamColors": {
+                        "primary": "#660099",
+                        "secondary": "#ffffff",
+                        "text": "#ffffff"
+                    }
+                }
+            ],
+            "newcomersOther": [],
+            "numberOfCompetitors": 20,
+            "id": 22282,
+            "hostCountries": []
+        },
+        "params": {
+            "sport": "football",
+            "category": "france",
+            "tournament": "ligue-1",
+            "id": "34"
+        }
+    },
+    "italy": {
+        "uniqueTournament": {
+            "name": "Serie A",
+            "slug": "serie-a",
+            "primaryColorHex": "#09519e",
+            "secondaryColorHex": "#008fd7",
+            "logo": {
+                "md5": "b28e6c9523fa75349e9f97df8dbb1053",
+                "id": 833840
+            },
+            "category": {
+                "name": "Italy",
+                "slug": "italy",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "id": 31,
+                "flag": "italy",
+                "alpha2": "IT"
+            },
+            "userCount": 641616,
+            "tier": 1,
+            "titleHolder": {
+                "name": "Milan",
+                "slug": "milan",
+                "shortName": "Milan",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 574193,
+                "nameCode": "ACM",
+                "national": false,
+                "type": 0,
+                "id": 2692,
+                "teamColors": {
+                    "primary": "#000000",
+                    "secondary": "#cc0000",
+                    "text": "#cc0000"
+                }
+            },
+            "titleHolderTitles": 19,
+            "mostTitles": 36,
+            "mostTitlesTeams": [
+                {
+                    "name": "Juventus",
+                    "slug": "juventus",
+                    "shortName": "Juventus",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 709360,
+                    "nameCode": "JUV",
+                    "disabled": false,
+                    "national": false,
+                    "type": 0,
+                    "id": 2687,
+                    "teamColors": {
+                        "primary": "#ffffff",
+                        "secondary": "#000000",
+                        "text": "#000000"
+                    }
+                }
+            ],
+            "linkedUniqueTournaments": [],
+            "hasStandingsGroups": false,
+            "hasRounds": true,
+            "hasPlayoffSeries": false,
+            "upperDivisions": [],
+            "lowerDivisions": [
+                {
+                    "name": "Serie B",
+                    "slug": "serie-b",
+                    "primaryColorHex": "#027d32",
+                    "secondaryColorHex": "#f18f01",
+                    "logo": {
+                        "md5": "e5cfc624f43275ef6398c7d3bb098938",
+                        "id": 306746
+                    },
+                    "category": {
+                        "name": "Italy",
+                        "slug": "italy",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 31,
+                        "flag": "italy",
+                        "alpha2": "IT"
+                    },
+                    "tier": 2,
+                    "hasRounds": true,
+                    "hasPlayoffSeries": false,
+                    "hasPositionGraph": true,
+                    "id": 53,
+                    "startDateTimestamp": 1660329900,
+                    "endDateTimestamp": 1688083200,
+                    "displayInverseHomeAwayTeams": false
+                }
+            ],
+            "hasPositionGraph": true,
+            "id": 23,
+            "startDateTimestamp": 1660496400,
+            "endDateTimestamp": 1685923140,
+            "displayInverseHomeAwayTeams": false
+        },
+        "seasons": [
+            { "name": "Serie A 22/23", "year": "22/23", "id": 42415 },
+            { "name": "Serie A 21/22", "year": "21/22", "id": 37475 },
+            { "name": "Serie A 20/21", "year": "20/21", "id": 32523 },
+            { "name": "Serie A 19/20", "year": "19/20", "id": 24644 },
+            { "name": "Serie A 18/19", "year": "18/19", "id": 17932 },
+            { "name": "Serie A 17/18", "year": "17/18", "id": 13768 },
+            { "name": "Serie A 16/17", "year": "16/17", "id": 11966 },
+            { "name": "Serie A 15/16", "year": "15/16", "id": 10596 },
+            { "name": "Serie A 14/15", "year": "14/15", "id": 8618 },
+            { "name": "Serie A 13/14", "year": "13/14", "id": 6797 },
+            { "name": "Serie A 12/13", "year": "12/13", "id": 5145 },
+            { "name": "Serie A 11/12", "year": "11/12", "id": 3639 },
+            { "name": "Serie A 10/11", "year": "10/11", "id": 2930 },
+            { "name": "Serie A 09/10", "year": "09/10", "id": 2324 },
+            { "name": "Serie A 08/09", "year": "08/09", "id": 1552 },
+            { "name": "Serie A 07/08", "year": "07/08", "id": 712 },
+            { "name": "Serie A 06/07", "year": "06/07", "id": 98 },
+            { "name": "Serie A 05/06", "year": "05/06", "id": 97 },
+            { "name": "Serie A 04/05", "year": "04/05", "id": 96 },
+            { "name": "Serie A 03/04", "year": "03/04", "id": 95 },
+            { "name": "Serie A 02/03", "year": "02/03", "id": 80 },
+            { "name": "Serie A 01/02", "year": "01/02", "id": 81 },
+            { "name": "Serie A 00/01", "year": "00/01", "id": 82 },
+            { "name": "Serie A 99/00", "year": "99/00", "id": 83 },
+            { "name": "Serie A 98/99", "year": "98/99", "id": 84 },
+            { "name": "Serie A 97/98", "year": "97/98", "id": 85 }
+        ],
+        "seo": {
+            "otherNames": ["Serie A TIM "],
+            "grade": "professional",
+            "firstSeasonWinnerName": "Genoa",
+            "largestStadium": {
+                "teamName": "Internazionale/Milan",
+                "capacity": 80018
+            },
+            "lastSeasonAttendance": {
+                "highest": 78725,
+                "highestHomeTeam": "Internazionale",
+                "highestAwayTeam": "AC MIlan",
+                "total": 9199649,
+                "average": 24931
+            },
+            "tvPartners": [
+                { "name": "Sky Italia", "url": "https://www.sky.it/" },
+                { "name": "DAZN", "url": "https://www.dazn.com/" },
+                { "name": "RAI", "url": "http://www.rai.it/" }
+            ],
+            "officialOrganisation": {
+                "name": "Lega Serie A",
+                "url": "http://www.legaseriea.it/it"
+            },
+            "lastSeasonTopScorers": [{ "name": "Ciro Immobile", "goals": 27 }],
+            "teamsCount": 20,
+            "tablesCount": 3,
+            "relegatingTeamsCount": 3,
+            "promotions": [
+                {
+                    "competitionName": "Champions League",
+                    "promotionCount": 4
+                },
+                {
+                    "competitionName": "Europa League",
+                    "promotionCount": 2
+                }
+            ],
+            "gamesCount": 386,
+            "frequency": 1,
+            "mostPopularTeams": ["Juventus", "Milan", "Inter"],
+            "preliminaryRound": {},
+            "mainCompetition": {},
+            "roundsCount": 38,
+            "promotedTeams": ["SPAL", " Brescia", " Lecce"],
+            "uniqueTournament": {
+                "name": "Serie A",
+                "slug": "serie-a",
+                "category": {
+                    "name": "Italy",
+                    "slug": "italy",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 31,
+                    "flag": "italy",
+                    "alpha2": "IT"
+                },
+                "userCount": 641616,
+                "id": 23,
+                "displayInverseHomeAwayTeams": false
+            },
+            "competitionType": "league",
+            "gender": "M",
+            "firstSeasonYear": "1898",
+            "hasPlayoff": false,
+            "mostTitlesNames": ["Juventus"]
+        },
+        "info": {
+            "goals": 122,
+            "homeTeamWins": 21,
+            "awayTeamWins": 10,
+            "draws": 19,
+            "yellowCards": 213,
+            "redCards": 7,
+            "numberOfRounds": 38,
+            "newcomersUpperDivision": [],
+            "newcomersLowerDivision": [
+                {
+                    "name": "Lecce",
+                    "slug": "lecce",
+                    "shortName": "Lecce",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 27895,
+                    "nameCode": "LEC",
+                    "national": false,
+                    "type": 0,
+                    "id": 2689,
+                    "teamColors": {
+                        "primary": "#f6ea00",
+                        "secondary": "#db2d1f",
+                        "text": "#db2d1f"
+                    }
+                },
+                {
+                    "name": "Monza",
+                    "slug": "monza",
+                    "shortName": "Monza",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 22724,
+                    "nameCode": "MON",
+                    "national": false,
+                    "type": 0,
+                    "id": 2729,
+                    "teamColors": {
+                        "primary": "#d71742",
+                        "secondary": "#ffffff",
+                        "text": "#ffffff"
+                    }
+                },
+                {
+                    "name": "Cremonese",
+                    "slug": "cremonese",
+                    "shortName": "Cremonese",
+                    "gender": "M",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "userCount": 15779,
+                    "nameCode": "CRE",
+                    "national": false,
+                    "type": 0,
+                    "id": 2761,
+                    "teamColors": {
+                        "primary": "#c8091d",
+                        "secondary": "#a9a7a7",
+                        "text": "#a9a7a7"
+                    }
+                }
+            ],
+            "newcomersOther": [],
+            "numberOfCompetitors": 20,
+            "id": 21697,
+            "hostCountries": ["Italy"]
+        },
+        "params": {
+            "sport": "football",
+            "category": "italy",
+            "tournament": "serie-a",
+            "id": "23"
+        }
+    },
+
+    "vietnam": {
+        "seasons": [
+            { "name": "V-League 2022", "year": "2022", "id": 40370 },
+            { "name": "V-League 2021", "year": "2021", "id": 35252 },
+            { "name": "V-League 2020", "year": "2020", "id": 26933 },
+            { "name": "V-League 2019", "year": "2019", "id": 22506 },
+            { "name": "V-League 2018", "year": "2018", "id": 16244 },
+            { "name": "V-League 2017", "year": "2017", "id": 12768 },
+            { "name": "V-League 2016", "year": "2016", "id": 11166 },
+            { "name": "V-League 2015", "year": "2015", "id": 9646 },
+            { "name": "V-League 2014", "year": "2014", "id": 7610 },
+            { "name": "V-League 2013", "year": "2013", "id": 5760 },
+            { "name": "V-League 2012", "year": "2012", "id": 4158 },
+            { "name": "V-League 2011", "year": "2011", "id": 3198 },
+            { "name": "V-League 2010", "year": "2010", "id": 2585 },
+            { "name": "V-League 2009", "year": "2009", "id": 1968 }
+        ],
+
+        "params": {
+            "sport": "football",
+            "category": "vietnam",
+            "tournament": "v-league",
+            "id": "626"
+        }
+    },
+    "c1": {
+        "seasons": [
+            {
+                "name": "UEFA Champions League 22/23",
+                "year": "22/23",
+                "id": 41897
+            },
+            {
+                "name": "UEFA Champions League 21/22",
+                "year": "21/22",
+                "id": 36886
+            },
+            {
+                "name": "UEFA Champions League 20/21",
+                "year": "20/21",
+                "id": 29267
+            },
+            {
+                "name": "UEFA Champions League 19/20",
+                "year": "19/20",
+                "id": 23766
+            },
+            {
+                "name": "UEFA Champions League 18/19",
+                "year": "18/19",
+                "id": 17351
+            },
+            {
+                "name": "UEFA Champions League 17/18",
+                "year": "17/18",
+                "id": 13415
+            },
+            {
+                "name": "UEFA Champions League 16/17",
+                "year": "16/17",
+                "id": 11773
+            },
+            {
+                "name": "UEFA Champions League 15/16",
+                "year": "15/16",
+                "id": 10390
+            },
+            {
+                "name": "Champions League 14/15",
+                "year": "14/15",
+                "id": 8226
+            },
+            {
+                "name": "Champions League 13/14",
+                "year": "13/14",
+                "id": 6359
+            },
+            {
+                "name": "UEFA Champions League 12/13",
+                "year": "12/13",
+                "id": 4788
+            },
+            {
+                "name": "Champions League 11/12",
+                "year": "11/12",
+                "id": 3402
+            },
+            {
+                "name": "Champions League 10/11",
+                "year": "10/11",
+                "id": 2764
+            },
+            {
+                "name": "Champions League 09/10",
+                "year": "09/10",
+                "id": 1825
+            },
+            {
+                "name": "Champions League 08/09",
+                "year": "08/09",
+                "id": 1664
+            },
+            {
+                "name": "Champions League 07/08",
+                "year": "07/08",
+                "id": 603
+            },
+            {
+                "name": "Champions League 06/07",
+                "year": "06/07",
+                "id": 15
+            },
+            {
+                "name": "Champions League 05/06",
+                "year": "05/06",
+                "id": 14
+            },
+            {
+                "name": "Champions League 04/05",
+                "year": "04/05",
+                "id": 13
+            },
+            {
+                "name": "Champions League 03/04",
+                "year": "03/04",
+                "id": 12
+            }
+        ],
+
+        "params": {
+            "sport": "football",
+            "category": "europe",
+            "tournament": "uefa-champions-league",
+            "id": "7"
+        }
+    }
+}

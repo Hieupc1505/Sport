@@ -1,0 +1,26 @@
+GET http://localhost:7500/api/sports/england/charts/0
+
+###
+GET http://localhost:7500/api/sports/england/match
+
+###
+GET http://localhost:7500/api/sports/vietnam/top-players
+
+### 
+GET https://api.sofascore.com/api/v1/unique-tournament/17/season/41886/events/round/6
+### 
+GET https://api.sofascore.com/api/v1/unique-tournament/17/season/41886/team-events/total
+### 
+GET https://api.sofascore.com/api/v1/unique-tournament/17/season/41886/standings/total
+
+###
+GET https://api.sofascore.com/api/v1/unique-tournament/16/season/41886/team-events/total
+
+###
+GET https://api.sofascore.com/api/v1/unique-tournament/34/season/42273/events/round/2
+###
+GET https://api.sofascore.com/api/v1/unique-tournament/7/season/41897/team-events/total
+
+
+
+
